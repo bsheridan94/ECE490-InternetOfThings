@@ -14,4 +14,6 @@ An authorized account could message the lock at the twitter handle. Certain phra
 
 The door could also be unlocked and locked through waving an NFC id infront of the door panel.
 
+![](https://github.com/bsheridan94/ECE490-InternetOfThings/blob/master/Images/Capture7.JPG)
+
 Overall the project was a success, though i still wish to make the code more robust and functional and remove the use of node red. 
